@@ -13,11 +13,6 @@ Notally was created because I wanted to make something that was beautiful and at
 * Create rich text notes with support for bold, italics, mono space and strike-through
 * Add clickable links to notes with support for phone numbers, email addresses and web urls
 
-### Translations
-All translations are crowd sourced. To contribute, follow these [guidelines](https://m2.material.io/design/communication/writing.html) and email me or open a pull request.
-
-<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/1.png" width="250"/><img src="fastlane/metadata/android/en-US/images/phoneScreenshots/6.png" width="250"/><img src="fastlane/metadata/android/en-US/images/phoneScreenshots/2.png" width="250"/>
-
 
 ### Copycats
 Clones of Notally keep popping up on the Play Store. They are not licensed under GPL3 and usually change a few colors, include ads, etc. Please [report them](https://support.google.com/googleplay/android-developer/contact/takedown) and [inform me](mailto:omgodseapps@gmail.com) if you find a new one.
